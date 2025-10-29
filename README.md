@@ -9,27 +9,6 @@
 
 ---
 
-### 🔭 I’m currently working on  
-I’m a final-year Computer Science Engineering (AIML) student at Kalasalingam University, exploring the intersection of AI, Cloud, and DevOps.
-
-### 🌱 I’m currently learning  
-Kubernetes, Terraform, and advanced techniques for deploying scalable machine learning models in production.
-
-### 👯 I’m looking to collaborate on  
-AI + DevOps automation, open-source infrastructure tools, and next-gen cloud projects that make a real impact.
-
-### 🤝 I’m looking for help with  
-Optimizing end-to-end ML pipelines, container orchestration, and distributed data systems using Kafka.
-
-### 💬 Ask me about  
-Cloud computing, DevOps practices, Machine Learning, Flask, Streamlit, and system automation.
-
-### ⚡ Fun fact  
-I love automating repetitive tasks so I can focus on creating new ones ☕⚙️
-
-
----
-
 ## 🧠 About Me  
 - 🧩 Problem solver with a passion for technology and innovation.  
 - ☁️ Interested in Cloud, DevOps, and AI-powered solutions.  
