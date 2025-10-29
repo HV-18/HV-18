@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Harshavardhan Nalleboina  
-**A passionate Cloud & DevOps Engineer | AI & ML Enthusiast | Tech Innovator from India**
+**AIML Student || Aspiring Cloud & DevOps Engineer || Passionate about Building Intelligent, Scalable Solutions**
 
 📧 **Email:** [harshavardhannalleboina@gmail.com](mailto:harshavardhannalleboina@gmail.com)  
 🌐 **Portfolio:** [vardhanlabs.website](https://vardhanlabs.website)  
@@ -10,22 +10,23 @@
 ---
 
 ### 🔭 I’m currently working on  
-Cloud infrastructure automation, containerized deployments, and intelligent data-driven applications.
+Building cloud-native applications, automating deployments, and integrating AI-driven insights into real-world solutions.
 
 ### 🌱 I’m currently learning  
-Kubernetes, Terraform, and advanced Machine Learning deployment workflows.
+Kubernetes, Terraform, and advanced techniques for deploying scalable machine learning models in production.
 
 ### 👯 I’m looking to collaborate on  
-AI + DevOps integration projects, open-source infrastructure tools, and scalable web apps.
+AI + DevOps automation, open-source infrastructure tools, and next-gen cloud projects that make a real impact.
 
 ### 🤝 I’m looking for help with  
-Optimizing ML pipelines and distributed systems using Kafka & cloud orchestration.
+Optimizing end-to-end ML pipelines, container orchestration, and distributed data systems using Kafka.
 
 ### 💬 Ask me about  
-Cloud, DevOps, Machine Learning, Flask, Streamlit, and automation scripting.
+Cloud computing, DevOps practices, Machine Learning, Flask, Streamlit, and system automation.
 
 ### ⚡ Fun fact  
-I build things that automate my life ☕⚙️
+I love automating repetitive tasks so I can focus on creating new ones ☕⚙️
+
 
 ---
 
@@ -36,8 +37,12 @@ I build things that automate my life ☕⚙️
 - 🎯 Goal: To become a Cloud + ML Architect and contribute to open-source development.  
 
 ---
+## 🐍 Snake Contribution Graph  
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-## 🏗️ Tech Stack  
+--- 
 
 ### 🧑‍💻 **Languages**
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -100,17 +105,7 @@ I build things that automate my life ☕⚙️
 
 ---
 
-## 🐍 Snake Contribution Graph  
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 🔝 Top Contributed Repositories  
 ![](https://github-contributor-stats.vercel.app/api?username=HV-18&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-
-⭐ **“Automate. Build. Learn. Deploy. Repeat.”**  
-© 2025 **Harshavardhan Nalleboina**||
