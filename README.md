@@ -10,7 +10,7 @@
 ---
 
 ### 🔭 I’m currently working on  
-Building cloud-native applications, automating deployments, and integrating AI-driven insights into real-world solutions.
+I’m a final-year Computer Science Engineering (AIML) student at Kalasalingam University, exploring the intersection of AI, Cloud, and DevOps.
 
 ### 🌱 I’m currently learning  
 Kubernetes, Terraform, and advanced techniques for deploying scalable machine learning models in production.
