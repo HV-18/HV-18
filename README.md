@@ -1,90 +1,118 @@
-# 💫 Hi 👋, I'm Harshavardhan Nalleboina  
-**Full-stack developer || Building clean, responsive web apps || Open-source enthusiast|| Passionate web developer crafting interactive and accessible experience**
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, **Harshavardhan** this side!
 
-📧 **Email:** [harshavardhannalleboina@gmail.com](mailto:harshavardhannalleboina@gmail.com)  
-🌐 **Portfolio:** [vardhanlabs.website](https://vardhanlabs.website)  
-💼 **LinkedIn:** [linkedin.com/in/nalleboinaharshavardhan](https://www.linkedin.com/in/nalleboinaharshavardhan/)  
-🐦 **X (Twitter):** [@122dubai](https://x.com/122dubai)  
-💻 **GitHub:** [github.com/HV-18](https://github.com/HV-18)
-
----
-
-## 🧠 About Me  
-- 🧩 Problem solver with a passion for technology and innovation.  
-- ☁️ Interested in Cloud, DevOps, and AI-powered solutions.  
-- 🧠 Strong in backend logic, ML workflows, and clean UI-driven app design.  
-- 🎯 Goal: To become a Cloud + ML Architect and contribute to open-source development.  
-
----
-## 🐍 Snake Contribution Graph  
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AI+%26+ML+Enthusiast;AIML+Student+@+Kalasalingam+University;Tech+Innovator+From+India+🇮🇳)
+
+<p><em>🚀 Passionate about Cloud, Automation, and AI-driven systems that scale intelligently.</em></p>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
+
 </div>
 
---- 
+---
 
-### 🧑‍💻 **Languages**
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🙋🏻‍♂️ **About Me**
 
-### 🧠 **Machine Learning**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🗄️ **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
-### 🧰 **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+> 🎓 I’m a **4th-year B.Tech CSE (AIML)** student at **Kalasalingam University** (GPA: **8.01**).  
+> 🏆 **National Hackathon Winner (IBM, Aug 2025)**  
+> 💻 Passionate about **Cloud Engineering, DevOps Automation, and Machine Learning applications**.  
+> 🧠 Continuously exploring ways to merge **AI with scalable cloud infrastructures**.  
+> 🌍 I believe in creating **tech that makes a real-world impact.**
 
 ---
 
-## 🌍 Spoken Languages  
-🇮🇳 **Telugu** | 🇬🇧 **English** | 🇮🇳 **Hindi**
+### 🔭 I’m currently working on  
+Building cloud-native applications, automating deployments, and integrating AI-driven insights into real-world solutions.
+
+### 🌱 I’m currently learning  
+Kubernetes, Terraform, and advanced techniques for deploying scalable machine learning models in production.
+
+### 👯 I’m looking to collaborate on  
+AI + DevOps automation, open-source infrastructure tools, and next-gen cloud projects that make a real impact.
+
+### 🤝 I’m looking for help with  
+Optimizing end-to-end ML pipelines, container orchestration, and distributed data systems using Kafka.
+
+### 💬 Ask me about  
+Cloud computing, DevOps practices, Machine Learning, Flask, Streamlit, and system automation.
+
+### ⚡ Fun fact  
+I love automating tasks so I can spend more time learning new technologies ☕⚙️
 
 ---
 
-## 🏆 GitHub Stats  
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=HV-18&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=HV-18&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HV-18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 **GitHub Analytics**
 
----
+<img src="https://komarev.com/ghpvc/?username=HV-18&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 
-## 🪄 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=HV-18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=HV-18&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=HV-18&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF&text_color=FFFFFF" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HV-18&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C8FF&text_color=FFFFFF" height="180em"/>
 
-## ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HV-18&theme=radical&hide_border=true&background=0D1117&ring=00C8FF&fire=00C8FF&currStreakLabel=FFFFFF"/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HV-18&theme=react-dark&bg_color=0D1117&color=00C8FF&line=00C8FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nalleboinaharshavardhan/)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/122dubai)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515.svg?logo=github&logoColor=white)](https://github.com/HV-18)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF7139.svg?logo=firefox&logoColor=white)](https://vardhanlabs.website)
+</div>
 
 ---
 
-### 🔝 Top Contributed Repositories  
-![](https://github-contributor-stats.vercel.app/api?username=HV-18&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## 🧠 **Tech Stack**
+
+### 💻 Languages  
+Python • Java • C • C++  
+
+### 🧰 Frameworks / Libraries  
+Flask • Streamlit • scikit-learn  
+
+### 🗄️ Databases  
+MySQL • MongoDB  
+
+### 🛠️ Tools  
+Git • VS Code • Power BI • Excel • Linux  
+
+### 🗣️ Spoken Languages  
+Telugu • English • Hindi  
 
 ---
+
+## 🏆 **Achievements & Highlights**
+
+- 🥇 **National Hackathon Winner – IBM (Aug 2025)**  
+- 🎓 **B.Tech CSE (AIML), Kalasalingam University** — GPA: **8.01/10**  
+- 🧩 **AI & DevOps Projects:** Cloud automation, ML model deployment, Flask web apps  
+- ☁️ **Built cloud-native systems** integrating Flask APIs with AWS & containerized services  
+- 💡 **Open Source Contributor** – passionate about community-driven innovation  
+
+---
+
+## 🌍 **Let’s Connect**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nalleboinaharshavardhan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:harshavardhannalleboina@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/122dubai"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://vardhanlabs.website"><img src="https://img.shields.io/badge/Portfolio-00C8FF?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 My Contribution Graph
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+
+---
+
+### 💭 *"The best way to predict the future is to create it."*  
+— Peter Drucker
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
