@@ -22,26 +22,6 @@
 
 ---
 
-### 🔭 I’m currently working on  
-Building cloud-native applications, automating deployments, and integrating AI-driven insights into real-world solutions.
-
-### 🌱 I’m currently learning  
-Kubernetes, Terraform, and advanced techniques for deploying scalable machine learning models in production.
-
-### 👯 I’m looking to collaborate on  
-AI + DevOps automation, open-source infrastructure tools, and next-gen cloud projects that make a real impact.
-
-### 🤝 I’m looking for help with  
-Optimizing end-to-end ML pipelines, container orchestration, and distributed data systems using Kafka.
-
-### 💬 Ask me about  
-Cloud computing, DevOps practices, Machine Learning, Flask, Streamlit, and system automation.
-
-### ⚡ Fun fact  
-I love automating tasks so I can spend more time learning new technologies ☕⚙️
-
----
-
 <div align="center">
 
 ## 📊 **GitHub Analytics**
