@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Harshavardhan Nalleboina  
-**AIML Student || Aspiring Cloud & DevOps Engineer || Passionate about Building Intelligent, Scalable Solutions**
+**Full-stack developer || Building clean, responsive web apps || Open-source enthusiast|| Passionate web developer crafting interactive and accessible experience**
 
 📧 **Email:** [harshavardhannalleboina@gmail.com](mailto:harshavardhannalleboina@gmail.com)  
 🌐 **Portfolio:** [vardhanlabs.website](https://vardhanlabs.website)  
