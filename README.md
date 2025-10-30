@@ -14,7 +14,7 @@
 
 ## 🙋🏻‍♂️ **About Me**
 
-> 🎓 I’m a **4th-year B.Tech CSE (AIML)** student at **Kalasalingam University** (GPA: **8.01**).  
+> 🎓 I’m a **4th-year B.Tech CSE (AIML)** student at **Kalasalingam University** (GPA: **7.5**).  
 > 🏆 **National Hackathon Winner (IBM, Aug 2025)**  
 > 💻 Passionate about **Cloud Engineering, DevOps Automation, and Machine Learning applications**.  
 > 🧠 Continuously exploring ways to merge **AI with scalable cloud infrastructures**.  
