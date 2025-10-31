@@ -18,7 +18,6 @@
 > 🏆 **National Hackathon Winner (IBM, Aug 2025)**  
 > 💻 Passionate about **Cloud Engineering, DevOps Automation, and Machine Learning applications**.  
 > 🧠 Continuously exploring ways to merge **AI with scalable cloud infrastructures**.  
-> 🌍 I believe in creating **tech that makes a real-world impact.**
 
 ---
 
