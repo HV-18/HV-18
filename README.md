@@ -42,20 +42,36 @@
 
 ## 🧠 **Tech Stack**
 
-### 💻 Languages  
-Python • Java • C • C++  
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad6bf8e47.gif" width="100">
 
-### 🧰 Frameworks / Libraries  
-Flask • Streamlit • scikit-learn  
 
-### 🗄️ Databases  
-MySQL • MongoDB  
+### **Languages & Runtimes**
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,c,cpp,solidity,python" />
+</div>
 
-### 🛠️ Tools  
-Git • VS Code • Power BI • Excel • Linux  
+### **Frameworks & Databases**
+<div>
+  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,react,flutter,nextjs,tailwind" />
+</div>
 
-### 🗣️ Spoken Languages  
-Telugu • English • Hindi  
+### **DevOps & Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,postman,vscode,aws,nginx,redis" />
+</div>
+
+### **Specializations**
+<div>
+  
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+</div>
+
+</div> 
 
 ---
 
@@ -70,6 +86,8 @@ Telugu • English • Hindi
 ---
 
 ## 🌍 **Let’s Connect**
+
+   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
 <div align="center">
 
