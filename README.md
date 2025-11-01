@@ -1,10 +1,10 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, **Harshavardhan** this side!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hey there, **Harshavardhan Nalleboina** this side!
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;AI+%26+ML+Enthusiast;AIML+Student+@+Kalasalingam+University;Tech+Innovator+From+India+🇮🇳)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;AIML+Student+@+Kalasalingam+University;Tech+Innovator+From+India+🇮🇳)
 
-<p><em>🚀 Passionate about Cloud, Automation, and AI-driven systems that scale intelligently.</em></p>
+<p><em>🚀 Passionate about AI Tool & Bots🤖</em></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
 
@@ -14,10 +14,18 @@
 
 ## 🙋🏻‍♂️ **About Me**
 
-> 🎓 I’m a **4th-year B.Tech CSE (AIML)** student at **Kalasalingam University** (GPA: **7.5**).  
-> 🏆 **National Hackathon Winner (IBM, Aug 2025)**  
-> 💻 Passionate about **Cloud Engineering, DevOps Automation, and Machine Learning applications**.  
-> 🧠 Continuously exploring ways to merge **AI with scalable cloud infrastructures**.  
+> *Backend-focused B.Tech Computer Science candidate (Class of 2026) with expertise in system architecture, API development, and database optimization. Skilled in designing scalable distributed systems and implementing RESTful services using Node.js and MongoDB.*
+
+<br>
+
+- 🎓 **Education**: B.Tech CSE, AKS University **(GPA: 8.21)**
+- 🌱 **Currently Learning**: System Design, DevOps, Linux Internals
+- 🔬 **Research**: Published **IEEE paper** on facial recognition security
+- 💡 **Passionate About**: Building scalable backends, blockchain integration, ethical hacking platforms
+- 📫 **Reach me**: **[rajvl132011@gmail.com](mailto:rajvl132011@gmail.com)**
+- ⚡ **Fun Fact**: I've contributed to **15+ open-source projects** with a **98% bug resolution rate**!
+
+<br clear="both"/>
 
 ---
 
