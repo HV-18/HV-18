@@ -18,12 +18,12 @@
 
 <br>
 
-- 🎓 **Education**: B.Tech CSE, AKS University **(GPA: 8.21)**
-- 🌱 **Currently Learning**: System Design, DevOps, Linux Internals
-- 🔬 **Research**: Published **IEEE paper** on facial recognition security
-- 💡 **Passionate About**: Building scalable backends, blockchain integration, ethical hacking platforms
-- 📫 **Reach me**: **[rajvl132011@gmail.com](mailto:rajvl132011@gmail.com)**
-- ⚡ **Fun Fact**: I've contributed to **15+ open-source projects** with a **98% bug resolution rate**!
+- 🎓 **Education**: B.Tech CSE, kalasalingam University **(GPA: 8.01)**
+- 🌱 **Currently Learning**: NLPS AND LLMS 
+- 🔬 **Research**: Published **IEEE paper** on VOICE ASSISTANT 
+- 💡 **Passionate About**: Building scalable backends  & Frontends
+- 📫 **Reach me**: **[harshavardhannalleboina@gmail.com](mailto:harshavardhannalleboina@gmail.com)**
+- ⚡ **Fun Fact**: I've contributed to **15+ open-source projects** with a **80% bug resolution rate**!
 
 <br clear="both"/>
 
