@@ -50,17 +50,15 @@
 
 ## 🧠 **Tech Stack**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad6bf8e47.gif" width="100">
-
 
 ### **Languages & Runtimes**
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,c,python" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,c,python" />
 </div>
 
 ### **Frameworks & Databases**
 <div>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,react" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,react" />
 </div>
 
 ### **DevOps & Tools**
@@ -68,16 +66,7 @@
   <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode" />
 </div>
 
-### **Specializations**
-<div>
-  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-</div>
 
 </div> 
 
