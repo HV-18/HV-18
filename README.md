@@ -14,7 +14,7 @@
 
 ## 🙋🏻‍♂️ **About Me**
 
-> *Backend-focused B.Tech Computer Science candidate (Class of 2026) with expertise in system architecture, API development, and database optimization. Skilled in designing scalable distributed systems and implementing RESTful services using Node.js and MongoDB.*
+> *Backend-focused B.Tech Computer Science candidate (Class of 2026) with expertise in system architecture, API development, and database optimization. Skilled in designing scalable distributed systems and implementing RESTful services MongoDB.*
 
 <br>
 
@@ -55,17 +55,17 @@
 
 ### **Languages & Runtimes**
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,c,cpp,solidity,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,c,python" />
 </div>
 
 ### **Frameworks & Databases**
 <div>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,react,flutter,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,react" />
 </div>
 
 ### **DevOps & Tools**
 <div>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,postman,vscode,aws,nginx,redis" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode" />
 </div>
 
 ### **Specializations**
